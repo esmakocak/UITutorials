@@ -1,4 +1,4 @@
-![To Do App (Presentation)](https://github.com/user-attachments/assets/ed4c2d70-9dec-46dd-921e-779b5e037836)- [Fruit App](#fruit-app)
+- [Fruit App](#fruit-app)
 
 
 ## Fruit App

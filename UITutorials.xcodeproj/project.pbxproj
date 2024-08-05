@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		404B8A1A2C61229E00E8B859 /* GameUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 404B8A192C61229E00E8B859 /* GameUI.swift */; };
 		40C0B3602C5FD38B0062955D /* UITutorialsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C0B35F2C5FD38B0062955D /* UITutorialsApp.swift */; };
 		40C0B3622C5FD38B0062955D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C0B3612C5FD38B0062955D /* ContentView.swift */; };
 		40C0B3642C5FD38D0062955D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 40C0B3632C5FD38D0062955D /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		404B8A192C61229E00E8B859 /* GameUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameUI.swift; sourceTree = "<group>"; };
 		40C0B35C2C5FD38B0062955D /* UITutorials.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UITutorials.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		40C0B35F2C5FD38B0062955D /* UITutorialsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITutorialsApp.swift; sourceTree = "<group>"; };
 		40C0B3612C5FD38B0062955D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 				40C0B35F2C5FD38B0062955D /* UITutorialsApp.swift */,
 				40C0B3612C5FD38B0062955D /* ContentView.swift */,
 				40C0B36D2C5FD4310062955D /* FruitsApp.swift */,
+				404B8A192C61229E00E8B859 /* GameUI.swift */,
 				40C0B3632C5FD38D0062955D /* Assets.xcassets */,
 				40C0B3652C5FD38D0062955D /* Preview Content */,
 			);
@@ -143,6 +146,7 @@
 				40C0B36E2C5FD4320062955D /* FruitsApp.swift in Sources */,
 				40C0B3622C5FD38B0062955D /* ContentView.swift in Sources */,
 				40C0B3602C5FD38B0062955D /* UITutorialsApp.swift in Sources */,
+				404B8A1A2C61229E00E8B859 /* GameUI.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

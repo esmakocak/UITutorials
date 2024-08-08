@@ -1,4 +1,4 @@
-![drinksmenu](https://github.com/user-attachments/assets/90da74a7-1f86-4643-aefc-2157d1cc162f)- [Fruit App](#fruit-app)
+- [Fruit App](#fruit-app)
 - [Game UI](#game-ui)
 - [Drinks Menu](#drinks-menu)
 

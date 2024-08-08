@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		400991C02C6527F500D4582B /* DrinksMenuApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 400991BF2C6527F500D4582B /* DrinksMenuApp.swift */; };
 		404B8A1A2C61229E00E8B859 /* GameUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 404B8A192C61229E00E8B859 /* GameUI.swift */; };
 		40C0B3602C5FD38B0062955D /* UITutorialsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C0B35F2C5FD38B0062955D /* UITutorialsApp.swift */; };
 		40C0B3622C5FD38B0062955D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C0B3612C5FD38B0062955D /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		400991BF2C6527F500D4582B /* DrinksMenuApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrinksMenuApp.swift; sourceTree = "<group>"; };
 		404B8A192C61229E00E8B859 /* GameUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameUI.swift; sourceTree = "<group>"; };
 		40C0B35C2C5FD38B0062955D /* UITutorials.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UITutorials.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		40C0B35F2C5FD38B0062955D /* UITutorialsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITutorialsApp.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 			children = (
 				40C0B35F2C5FD38B0062955D /* UITutorialsApp.swift */,
 				40C0B3612C5FD38B0062955D /* ContentView.swift */,
+				400991BF2C6527F500D4582B /* DrinksMenuApp.swift */,
 				40C0B36D2C5FD4310062955D /* FruitsApp.swift */,
 				404B8A192C61229E00E8B859 /* GameUI.swift */,
 				40C0B3632C5FD38D0062955D /* Assets.xcassets */,
@@ -147,6 +150,7 @@
 				40C0B3622C5FD38B0062955D /* ContentView.swift in Sources */,
 				40C0B3602C5FD38B0062955D /* UITutorialsApp.swift in Sources */,
 				404B8A1A2C61229E00E8B859 /* GameUI.swift in Sources */,
+				400991C02C6527F500D4582B /* DrinksMenuApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
